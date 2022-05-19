@@ -3,7 +3,7 @@ project_name: "demo-embeds"
 application: demo-extension-sdk {
   label: "Demo Extension SDK"
   # use url for development
-  url: "http://localhost:8080/bundle.js"
+  url: "http://34.69.246.216:8080/bundle.js"
   # use file for production deployment
   # file: "bundle.js"
   entitlements: {
